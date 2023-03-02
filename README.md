@@ -1,4 +1,4 @@
-# codai-nikel
+# exemplo-codai-nikel
 
 Este é um repositório de exemplo para o projeto [Codai](https://codai.growdev.com.br/).
 
